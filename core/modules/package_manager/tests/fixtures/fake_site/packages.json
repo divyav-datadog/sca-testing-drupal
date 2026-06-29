@@ -1,11 +1,11 @@
 {
     "packages": {
         "drupal/core-recommended": {
-            "9.8.0": {
+            "11.3.13": {
                 "name": "drupal/core-recommended",
                 "description": "A fake version of drupal/core-recommended",
                 "type": "project",
-                "version": "9.8.0",
+                "version": "11.3.13",
                 "dist": {
                     "type": "path",
                     "url": "../path_repos/drupal--core-recommended",
@@ -14,11 +14,11 @@
             }
         },
         "drupal/core-dev": {
-            "9.8.0": {
+            "11.3.13": {
                 "name": "drupal/core-dev",
                 "description": "A fake version of drupal/core-dev",
                 "type": "package",
-                "version": "9.8.0",
+                "version": "11.3.13",
                 "dist": {
                     "type": "path",
                     "url": "../path_repos/drupal--core-dev",
@@ -27,11 +27,11 @@
             }
         },
         "drupal/core": {
-            "9.8.0": {
+            "11.3.13": {
                 "name": "drupal/core",
                 "type": "drupal-core",
                 "description": "A fake version of drupal/core",
-                "version": "9.8.0",
+                "version": "11.3.13",
                 "extra": {
                     "_readme": [
                         "The 'drupal-scaffold' section below is needed because 'Drupal\\auto_updates\\Validator\\ScaffoldFilePermissionsValidator'",

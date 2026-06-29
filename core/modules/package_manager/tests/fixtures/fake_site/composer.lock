@@ -4,11 +4,11 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e14b8d5fb12bac6df9c78c41c977e9e5",
+    "content-hash": "970787f4219b8722ffdcb9eaddd55f35",
     "packages": [
         {
             "name": "drupal/core",
-            "version": "9.8.0",
+            "version": "11.3.13",
             "dist": {
                 "type": "path",
                 "url": "../path_repos/drupal--core",
@@ -54,7 +54,7 @@
         },
         {
             "name": "drupal/core-recommended",
-            "version": "9.8.0",
+            "version": "11.3.13",
             "dist": {
                 "type": "path",
                 "url": "../path_repos/drupal--core-recommended",
@@ -67,7 +67,7 @@
     "packages-dev": [
         {
             "name": "drupal/core-dev",
-            "version": "9.8.0",
+            "version": "11.3.13",
             "dist": {
                 "type": "path",
                 "url": "../path_repos/drupal--core-dev",
@@ -79,10 +79,10 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {},
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
-    "platform-dev": [],
-    "plugin-api-version": "2.6.0"
+    "platform": {},
+    "platform-dev": {},
+    "plugin-api-version": "2.9.0"
 }

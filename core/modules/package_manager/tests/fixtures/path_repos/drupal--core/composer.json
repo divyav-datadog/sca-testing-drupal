@@ -2,7 +2,7 @@
     "name": "drupal/core",
     "type": "drupal-core",
     "description": "A fake version of drupal/core",
-    "version": "9.8.0",
+    "version": "11.3.13",
     "extra": {
         "_readme": [
             "The 'drupal-scaffold' section below is needed because 'Drupal\\auto_updates\\Validator\\ScaffoldFilePermissionsValidator'",
